@@ -2,7 +2,7 @@
   "name": "kaku-ui",
   "version": "0.0.0",
   "files": ["dist/lib/*"],
-  "main": "dist/lib.",
+  "main": "dist/lib/kaku.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build"
